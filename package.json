@@ -1,0 +1,46 @@
+{
+  "name": "stylelint-config-usoniancss",
+  "version": "0.0.1",
+  "description": "UsonianCSS config for stylelint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usoniancss/stylelint-config-usoniancss.git"
+  },
+  "keywords": [
+    "itcss",
+    "postcss-bem-linter",
+    "stylelint",
+    "stylelint-config",
+    "stylelint-selector-bem-pattern",
+    "suitcss",
+    "usoniancss"
+  ],
+  "author": {
+    "name": "Brad Cerasani",
+    "email": "bradcerasani@gmail.com",
+    "url": "bradcerasani.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usoniancss/stylelint-config-usoniancss/issues"
+  },
+  "homepage": "https://github.com/usoniancss/stylelint-config-usoniancss#readme",
+  "dependencies": {
+    "stylelint-selector-bem-pattern": "^0.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^5.0.1",
+    "eslint-plugin-react": "^3.16.1",
+    "stylelint": "^4.3.3"
+  },
+  "eslintConfig": {
+    "extends": [
+      "airbnb"
+    ]
+  }
+}
