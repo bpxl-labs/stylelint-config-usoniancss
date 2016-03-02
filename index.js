@@ -65,7 +65,7 @@ module.exports = {
     'rule-trailing-semicolon': 'always',
     'selector-bem-pattern': {
       preset: 'suit',
-      utilitySelectors: /^\.u-(?:[a-z][a-zA-Z0-9]*)+(?:\d{1,2}\\\/\d{1,2})?(?:\\\@[a-zA-Z]{1,3})?$/,
+      utilitySelectors: /^\.u-(?:[a-z][a-zA-Z0-9]*)+(?:\d{1,2}\\\/\d{1,2})?(?:\\@[a-zA-Z]{1,3})?$/,
     },
     'selector-combinator-space-after': 'always',
     'selector-combinator-space-before': 'always',
