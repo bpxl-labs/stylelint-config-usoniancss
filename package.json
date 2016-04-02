@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-usoniancss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UsonianCSS config for stylelint",
   "main": "index.js",
   "scripts": {
@@ -23,9 +23,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/usoniancss/stylelint-config-usoniancss/issues"
+    "url": "https://github.com/bradcerasani/stylelint-config-usoniancss/issues"
   },
-  "homepage": "https://github.com/usoniancss/stylelint-config-usoniancss#readme",
+  "homepage": "https://github.com/bradcerasani/stylelint-config-usoniancss#readme",
   "dependencies": {
     "stylelint-selector-bem-pattern": "^0.2.3"
   },
