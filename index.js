@@ -41,7 +41,8 @@ module.exports = {
     'function-parentheses-space-inside': 'never-single-line',
     'function-url-quotes': 'double',
     'function-whitespace-after': 'always',
-    indentation: 2,
+    'indentation': 2,
+    'length-zero-no-unit': true,
     'max-empty-lines': 1,
     'max-line-length': [80, {
       ignore: 'non-comments',
@@ -60,7 +61,6 @@ module.exports = {
     'no-missing-end-of-source-newline': true,
     'number-leading-zero': 'always',
     'number-no-trailing-zeros': true,
-    'number-zero-length-no-unit': true,
     'root-no-standard-properties': true,
     'rule-nested-empty-line-before': 'always-multi-line',
     'rule-non-nested-empty-line-before': 'always-multi-line',
