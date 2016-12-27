@@ -63,7 +63,7 @@ module.exports = {
     'root-no-standard-properties': true,
     'rule-nested-empty-line-before': 'always-multi-line',
     'rule-non-nested-empty-line-before': 'always-multi-line',
-    'selector-bem-pattern': {
+    'plugin/selector-bem-pattern': {
       preset: 'suit',
       utilitySelectors: /^\.u-(?:[a-z][a-zA-Z0-9]*)+(?:\d{1,2}\\\/\d{1,2})?(?:\\@[a-zA-Z]{1,3})?$/,
     },
