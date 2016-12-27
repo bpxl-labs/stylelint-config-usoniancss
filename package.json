@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-usoniancss",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "UsonianCSS config for stylelint",
   "main": "index.js",
   "repository": "blackpixel/stylelint-config-usoniancss",
