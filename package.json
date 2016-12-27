@@ -3,10 +3,7 @@
   "version": "1.0.1",
   "description": "UsonianCSS config for stylelint",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": "bradcerasani/stylelint-config-usoniancss",
+  "repository": "blackpixel/stylelint-config-usoniancss",
   "keywords": [
     "itcss",
     "postcss-bem-linter",
@@ -27,13 +24,13 @@
   },
   "homepage": "https://github.com/bradcerasani/stylelint-config-usoniancss#readme",
   "dependencies": {
-    "stylelint-selector-bem-pattern": "^0.2.3"
+    "stylelint-selector-bem-pattern": "^1.0.0"
   },
   "devDependencies": {
-    "eslint": "^2.6.0",
-    "eslint-config-airbnb": "^6.2.0",
-    "eslint-plugin-react": "^4.2.3",
-    "stylelint": "^5.2.1"
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-react": "^6.8.0",
+    "stylelint": "^7.7.0"
   },
   "eslintConfig": {
     "extends": [
