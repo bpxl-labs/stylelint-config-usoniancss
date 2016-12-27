@@ -39,7 +39,7 @@ module.exports = {
     'function-linear-gradient-no-nonstandard-direction': true,
     'function-parentheses-newline-inside': 'always-multi-line',
     'function-parentheses-space-inside': 'never-single-line',
-    'function-url-quotes': 'double',
+    'function-url-quotes': 'always',
     'function-whitespace-after': 'always',
     'indentation': 2,
     'length-zero-no-unit': true,
