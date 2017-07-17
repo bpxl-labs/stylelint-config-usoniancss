@@ -3,7 +3,7 @@
   "version": "2.0.5",
   "description": "UsonianCSS config for stylelint",
   "main": "index.js",
-  "repository": "blackpixel/stylelint-config-usoniancss",
+  "repository": "bpxl-labs/stylelint-config-usoniancss",
   "keywords": [
     "itcss",
     "postcss-bem-linter",
@@ -15,14 +15,14 @@
   ],
   "author": {
     "name": "Brad Cerasani",
-    "email": "bradcerasani@gmail.com",
-    "url": "bradcerasani.me"
+    "email": "brad@blackpixel.com",
+    "url": "blackpixel.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bradcerasani/stylelint-config-usoniancss/issues"
+    "url": "https://github.com/bpxl-labs/stylelint-config-usoniancss/issues"
   },
-  "homepage": "https://github.com/bradcerasani/stylelint-config-usoniancss#readme",
+  "homepage": "https://github.com/bpxl-labs/stylelint-config-usoniancss#readme",
   "dependencies": {
     "stylelint-selector-bem-pattern": "^1.0.0"
   },
@@ -30,7 +30,7 @@
     "eslint": "^3.12.2",
     "eslint-config-airbnb": "^13.0.0",
     "eslint-plugin-react": "^6.8.0",
-    "stylelint": "^7.7.0"
+    "stylelint": "^8.0.0"
   },
   "eslintConfig": {
     "extends": [
