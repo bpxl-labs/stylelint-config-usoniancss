@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/bpxl-labs/stylelint-config-usoniancss#readme",
   "dependencies": {
+    "stylelint-order": "^0.6.0",
     "stylelint-selector-bem-pattern": "^1.0.0"
   },
   "devDependencies": {

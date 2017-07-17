@@ -1,5 +1,6 @@
 module.exports = {
   plugins: [
+    'stylelint-order',
     'stylelint-selector-bem-pattern',
   ],
   rules: {
