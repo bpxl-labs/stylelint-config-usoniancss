@@ -24,14 +24,14 @@
   },
   "homepage": "https://github.com/bpxl-labs/stylelint-config-usoniancss#readme",
   "dependencies": {
-    "stylelint-order": "^0.6.0",
-    "stylelint-selector-bem-pattern": "^1.0.0"
+    "stylelint-order": "^0.8.1",
+    "stylelint-selector-bem-pattern": "^2.0.0"
   },
   "devDependencies": {
-    "eslint": "^3.12.2",
-    "eslint-config-airbnb": "^13.0.0",
-    "eslint-plugin-react": "^6.8.0",
-    "stylelint": "^8.0.0"
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-react": "^7.7.0",
+    "stylelint": "^9.2.0"
   },
   "eslintConfig": {
     "extends": [
