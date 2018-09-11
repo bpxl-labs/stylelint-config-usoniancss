@@ -41,3 +41,11 @@ For example, to change the `indentation` to tabs and disable the `color-hex-case
 ## License
 
 MIT © [Brad Cerasani](http://bradcerasani.me)
+
+
+---
+
+Website: [blackpixel.com](https://blackpixel.com) &nbsp;&middot;&nbsp;
+GitHub: [@bpxl-labs](https://github.com/bpxl-labs/) &nbsp;&middot;&nbsp;
+Twitter: [@blackpixel](https://twitter.com/blackpixel) &nbsp;&middot;&nbsp;
+Medium: [@bpxl-craft](https://medium.com/bpxl-craft)
